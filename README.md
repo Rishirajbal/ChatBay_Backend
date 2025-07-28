@@ -1,6 +1,8 @@
 # ChatBay Backend
 
 Real-time chat application backend built with Node.js, Express, and Socket.IO.
+**Backend activation**:[ChatBay Backend](https://chatbay-backend.onrender.com)
+**Frontend activation**:[ChatBay Frontend](https://chatbay.onrender.com)
 
 ## Features
 
